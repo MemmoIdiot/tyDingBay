@@ -1,0 +1,16 @@
+{
+  "name": "ty_ding_bay",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "npx ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "10.12.18",
+    "@types/puppeteer": "1.11.1",
+    "typescript": "3.2.4"
+  },
+  "dependencies": {
+    "puppeteer": "1.11.0"
+  }
+}

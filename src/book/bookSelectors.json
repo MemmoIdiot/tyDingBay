@@ -1,0 +1,17 @@
+{
+    "TITLE": "#editpane_title",
+    "CONDITIONGOOD": "#itemCondition > option:nth-child(5)",
+    "AUTHOR": "#Listing\.Item\.ItemSpecific\[Author\]",
+    "BOOKTITLE": "#Listing\.Item\.ItemSpecific\[Book\ Title\]",
+    "LENGUAGE": "#Listing\.Item\.ItemSpecific\[Language\]",
+    "GENERE": "#Listing\.Item\.ItemSpecific\[Genre\]",
+    "PUBLICATIONYEAR": "#Listing\.Item\.ItemSpecific\[Publication\ Year\]",
+    "NARRATIVETYPE": "#Listing\.Item\.ItemSpecific\[Narrative\ Type\]",
+    "REGIONOFMANUFACTURE": "#Listing\.Item\.ItemSpecific\[Country\/Region\ of\ Manufacture\]",
+    "FORMAT": "#format > option:nth-child(2)",
+    "PRICE": "#binPrice",
+    "SHIPPING": "#domesticShipping > option:nth-child(1)",
+    "REGIONIT": "#v4-116 > option:nth-child(100)",
+    "ZIPCODE": "#itemPostalCode",
+    "CITY": "#location"
+}
